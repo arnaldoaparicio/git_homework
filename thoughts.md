@@ -6,3 +6,6 @@
 
 -Following the calendar I made and make any changes if necessary for Mod0.
 -Use keywords and other search strategies when using Google.
+
+
+- Shoutout to my girlfriend Kaitlyn who has provided a bunch of emotional support throughout my journey through Turing.
