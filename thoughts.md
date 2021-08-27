@@ -9,3 +9,6 @@
 
 
 - Shoutout to my girlfriend Kaitlyn who has provided a bunch of emotional support throughout my journey through Turing.
+
+
+-Pseudocode is vital .
